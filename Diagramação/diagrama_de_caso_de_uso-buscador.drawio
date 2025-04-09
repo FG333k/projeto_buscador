@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.1" pages="2">
   <diagram name="Página-1" id="4R_XhFTZOLe2d6gKUBly">
-    <mxGraphModel dx="1393" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="753" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
         <mxCell id="IMtY5FmmzQipSrMV69rI-1" value="Listar de desejos" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="400" y="520" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IMtY5FmmzQipSrMV69rI-5" value="Atualização do catalogo de cursos&lt;div&gt;manualmente&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="IMtY5FmmzQipSrMV69rI-5" value="Inserção manual&lt;div&gt;de cursos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="385" y="585" width="155" height="85" as="geometry" />
         </mxCell>
       </root>
